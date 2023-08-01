@@ -1,4 +1,4 @@
-# BFA_CoursePaper_Template
+# BFA_MasterCourse_Paper_Template
 
 北京电影学院 Beijing Film Academy
 
@@ -6,4 +6,4 @@
 
 陈俊良 Juneleung Chan
 
-2021-10
+2023-08
