@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.30)  2 AUG 2023 01:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.30)  2 AUG 2023 02:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/juneleung/Downloads/BFA_CoursePaper_Template/paper
-(/Users/juneleung/Downloads/BFA_CoursePaper_Template/paper.tex
+**/Users/juneleung/Downloads/BFA_CoursePaper_Template/MainPaper
+(/Users/juneleung/Downloads/BFA_CoursePaper_Template/MainPaper.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/local/texlive/2023/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2022/07/14 v2.5.10 Backend configuration file (CTEX)
@@ -235,8 +235,8 @@ Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
 \symwasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
-)) (./paper.aux)
-\openout1 = `paper.aux'.
+)) (./MainPaper.aux)
+\openout1 = `MainPaper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
@@ -517,14 +517,14 @@ Package fancyhdr Warning: \headheight is too small (0.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-12.64723pt}.
 
-[2] (./paper.aux) ) 
+[2] (./MainPaper.aux) ) 
 Here is how much of TeX's memory you used:
  8001 strings out of 476683
- 230844 string characters out of 5804047
+ 230888 string characters out of 5804047
  1851018 words of memory out of 5000000
  28155 multiletter control sequences out of 15000+600000
  518472 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,12n,97p,1258b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,12n,97p,1262b,352s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on paper.pdf (2 pages).
+Output written on MainPaper.pdf (2 pages).
