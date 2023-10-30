@@ -18,10 +18,14 @@
 
 ###  如果使用在线overleaf，
 
-1、下载zip
+1、从 模板工程[https://www.overleaf.com/read/symyghcvvpsq#a52898] 复制工程
 
-2、打开overleaf, [create] - [upload zip]
+或者
 
-3、请在左上角[Menu]中，将[Compiler(编译器)] 选择为[XeLaTex], 才可以支持中文，否则会报错。
+1、下载zip, 
+
+2、打开overleaf, [create] - [upload zip], 
+
+3、然后在左上角[Menu]中，将[Compiler(编译器)] 选择为[XeLaTex], 才可以支持中文，否则会报错。
 
 ![overleaf](/doc/overleaf.png)
