@@ -18,7 +18,7 @@
 
 ###  如果使用在线overleaf，
 
-1、下载zip,
+1、下载zip
 
 2、打开overleaf, [create] - [upload zip]
 
