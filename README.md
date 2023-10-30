@@ -22,6 +22,8 @@
 
 2、复制工程: 左上角[Menu]中，[copy project]
 
+![overleaf](/doc/copyproj.png)
+
 或者
 
 1、下载zip, 
